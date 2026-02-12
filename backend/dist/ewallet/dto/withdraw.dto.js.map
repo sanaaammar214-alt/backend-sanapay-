@@ -1,0 +1,1 @@
+{"version":3,"file":"withdraw.dto.js","sourceRoot":"","sources":["../../../src/ewallet/dto/withdraw.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAuD;AACvD,6CAA8C;AAE9C,MAAa,WAAW;CASvB;AATD,kCASC;AADC;IANC,IAAA,qBAAW,EAAC;QACX,OAAO,EAAE,GAAG;QACZ,WAAW,EAAE,mBAAmB;KACjC,CAAC;IACD,IAAA,0BAAQ,GAAE;IACV,IAAA,4BAAU,GAAE;;2CACE"}
